@@ -162,10 +162,7 @@ body {
     }
 
 
-    .card:hover {
-       transform: scale(0.9);
-    }
-
+ 
 
     .right  {
         top: -590px;
